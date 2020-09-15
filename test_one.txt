@@ -1,2 +1,3 @@
 Tjena! Detta är ett test.
 Jag provar att skicka tillbaka ett meddelande.
+Är det löst?
